@@ -1,0 +1,7 @@
+div.bloco{
+    background-image: url(imagens/wallpaper002.jpg);
+    height: 200px;
+    border: solid black;
+    margin: 5px;
+    border-radius: 30px;
+}
